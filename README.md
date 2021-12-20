@@ -12,3 +12,8 @@
 5. The next step was to get the TSNE 2D formulation of the images. This was implemented without any problems faced. <br>
 
 6. At last, the Confusion matrix is displayed which indicates the modest results. This can be improved given more computational power. 
+
+# Links
+
+1. Custom Model file: https://drive.google.com/file/d/1t9WrCml6byJydfm-4GFHFHa4BIjl2E0-/view?usp=sharing
+2. VGG Model file: https://drive.google.com/file/d/18zV6JZbIzF7teUsTesRFHcXP7ZdxrBsC/view?usp=sharing
